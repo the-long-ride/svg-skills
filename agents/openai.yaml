@@ -1,0 +1,7 @@
+interface:
+  display_name: "SVG Icon Agent"
+  short_description: "Find licensed SVG icons for UI work"
+  default_prompt: "Use $svg-icon-agent to prefer raw SVG code or local SVG assets over emoji and raster PNG/JPG icons for UI work."
+
+policy:
+  allow_implicit_invocation: true
